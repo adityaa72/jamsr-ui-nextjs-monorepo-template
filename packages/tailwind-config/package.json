@@ -1,0 +1,13 @@
+{
+  "name": "@repo/tailwind-config",
+  "version": "1.0.0",
+  "exports": {
+    ".": "./tailwind.config.ts"
+  },
+  "dependencies": {
+    "@jamsr-ui/theme": "^0.0.76"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
